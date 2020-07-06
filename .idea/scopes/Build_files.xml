@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Build files" pattern="file:*.gradle.kts||file[gradle-kts-kotlin-jvm.root-buildSrc.main]:kotlin//*.kt" />
+</component>
